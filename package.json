@@ -1,0 +1,27 @@
+{
+  "name": "sa4d-cc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAAD-NADEEM/GEN-AI-Currency-Converter.git"
+  },
+  "author": "SA4D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SAAD-NADEEM/GEN-AI-Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/SAAD-NADEEM/GEN-AI-Currency-Converter#readme",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
